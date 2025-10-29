@@ -1,0 +1,11 @@
+body {
+background: rgb(16, 10, 1);
+color: wheat;
+}
+h1 {
+    color: brown;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    
+}
