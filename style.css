@@ -1,7 +1,17 @@
+
+
 body {
-background: rgb(16, 10, 1);
-color: wheat;
+background-color: pink;
+color: rgb(71, 8, 36);
 }
+
+
+header {background-image: image(jpeg);
+    background-repeat: repeat;
+font-size: xx-large;}
+    
+
+
 h1 {
     color: brown;
     font-size: larger;
